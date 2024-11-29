@@ -1,5 +1,6 @@
 # 💫 About Me:
-Young Software Engineering from India blending innovation
+Young Software Engineering from India blending innovation with techmology.
+Reach out to me at rashmitha.rmenase@gmail.com
 
 
 ## 🌐 Socials:
