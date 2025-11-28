@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineering student exploring DSA, OOP, SQL, Python, JS, and AI/ML—focused on learning, improving, and building better solutions.
+Software Engineering student exploring DSA, OOP, SQL, Python, JS, and AI/ML—focused on learning, improving, and building better solutions.
 
 Reach out to me at rashmitha.rmenase@gmail.com
 
